@@ -28,7 +28,7 @@ and how it's related to the original data set.
 * Values: interval (-1, 1)
 * Taken from the original data set, files "X_train.txt" and "X_test.txt. Names assigned to every variable according to the labels in the file "features.txt".
     
-    Below is the list of features. For every feature there's a variable "mean" and another "std"(standard deviation):
+    Below the features are listed. For every feature there's a variable "mean" and another "std"(standard deviation):
 
 timeBodyAcc-mean-X   
 timeBodyAcc-mean-Y   
