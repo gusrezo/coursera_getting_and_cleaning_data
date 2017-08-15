@@ -8,21 +8,21 @@ and how it's related to the original data set.
 
 ## Tidy data set variables
 
-###subject_id
+### subject_id
     
 * Type: numeric. 
 * Values:  1-30
 * id  of the volunteer who participated in the experiment to whom the observation is related.
     Taken from the original data set, files "subject_train.txt" "subject_test.txt"
 
-###activity
+### activity
   
 * Type: factor. 
 * Values: "WALKING"" "WALKING_UPSTAIRS"" "WALKING_DOWNSTAIRS"" "SITTING"" "STANDING"" "LAYING""
 * Activity that the volunteer was performing.
     Taken from the original data set, files "y_train.txt" and "y_test.txt" and mapping the numeric values to the labels included in the file activity_labels.txt
     
-###features
+### features
     
 * Type: numeric. 
 * Values: interval (-1, 1)
